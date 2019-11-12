@@ -1,0 +1,5 @@
+#ignoruje wybrane pliki lub katalogi
+#ignoruj plik o nazwie git_init.iml
+untitled.iml
+
+.idea/
